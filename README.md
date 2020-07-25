@@ -14,5 +14,5 @@ The objective of our project was to help stores visitors to get all the goods an
 -- to be added..
 
 # Booth Poster :tv:
-<img src="https://github.com/Yarob50/Carty-Junction-Hackathon/blob/master/hackathon%20files/CartyPoster.png" height="550" />
+<img src="https://github.com/Yarob50/Carty-Junction-Hackathon/blob/master/hackathon%20files/CartyPoster.png" width="85%" />
 
