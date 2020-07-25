@@ -1,0 +1,15 @@
+PODS:
+  - BEMCheckBox (1.4.1)
+  - FLAnimatedImage (1.0.12)
+
+DEPENDENCIES:
+  - BEMCheckBox
+  - FLAnimatedImage
+
+SPEC CHECKSUMS:
+  BEMCheckBox: 5ba6e37ade3d3657b36caecc35c8b75c6c2b1a4e
+  FLAnimatedImage: 4a0b56255d9b05f18b6dd7ee06871be5d3b89e31
+
+PODFILE CHECKSUM: 14a51e05c4ddf781575ebc1d81173e93d1f16ce4
+
+COCOAPODS: 1.4.0
